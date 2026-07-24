@@ -21,8 +21,22 @@
 
 ### 🛠️ Tech Stack
 
+**💻 Programming & Web**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,cpp,git,github&perline=9&theme=dark" alt="tech stack icons" width="600"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,cpp&perline=7&theme=dark" alt="programming and web icons" width="480"/>
+</p>
+
+**🤖 AI Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
+
+**🧰 Tools & Platforms**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4&theme=dark" alt="tools and platforms icons" width="280"/>
 </p>
 
 ---
