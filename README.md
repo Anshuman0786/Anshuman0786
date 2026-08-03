@@ -44,7 +44,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshuman0786&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=Anshuman0786&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
 ---
@@ -52,8 +52,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshuman0786&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman0786&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Anshuman0786&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anshuman0786&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
