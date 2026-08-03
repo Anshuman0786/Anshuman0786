@@ -56,10 +56,6 @@
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anshuman0786&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman0786&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 ### 🚀 Featured Projects
